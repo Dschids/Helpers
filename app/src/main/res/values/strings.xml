@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Helpers</string>
+    <string name="name">Name:</string>
+    <string name="nameHint">Enter Name</string>
+    <string name="pass">Password: </string>
+    <string name="passHint">Enter Password</string>
+    <string name="login">Login</string>
+</resources>
